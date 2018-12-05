@@ -3,9 +3,11 @@ Exercises: Data Types and Variables
 ===================================
 
 Problems for exercises and homework for the ["Programming Fundamentals"
-course @ SoftUni](https://softuni.bg/courses/programming-fundamentals).
+course @ SoftUni][anchor href=https://softuni.bg/courses/programming-fundamentals ]https://softuni.bg/courses/programming-fundamentals[/anchor].
 
 You can check your solutions here:
+[anchor href=https://softuni.bg/courses/programming-fundamentals ]https://softuni.bg/courses/programming-fundamentals[/anchor]
+https://softuni.bg/courses/programming-fundamentals
 <https://judge.softuni.bg/Contests/206/Data-Types-and-Variables-Exercises>.
 
 Practice Integer Numbers
@@ -41,7 +43,9 @@ to the console.
 
 Follow the idea in the code below:
 
-![](/assets/programming-fundamentals-data-types-and-variables-exercises-01.png)
+
+
+[image src="https://github.com/InteractiveCourses/test2/tree/master/EN/assets/programming-fundamentals-data-types-and-variables-exercises-01.png"][/image]
 
 Practice Floating Point Numbers
 -------------------------------
@@ -116,7 +120,7 @@ Write a program that reads a number in **hexadecimal format**
 ### Hints
 
 -   Use
-    [**Convert.ToInt32(string, 16)**](https://msdn.microsoft.com/en-us/library/1k20k614(v=vs.110).aspx).
+    [**Convert.ToInt32(string, 16)**][anchor href=https://msdn.microsoft.com/en-us/library/1k20k614(v=vs.110).aspx ]https://msdn.microsoft.com/en-us/library/1k20k614(v=vs.110).aspx[/anchor]
 
 Boolean Variable
 ----------------
@@ -135,7 +139,7 @@ variable and **prints** "**Yes**" if the variable is **true** and
 ### Hints
 
 -   Use
-    [**Convert.ToBoolean(string)**](https://msdn.microsoft.com/en-us/library/86hw82a3(v=vs.110).aspx).
+    [**Convert.ToBoolean(string)**][anchor href=https://msdn.microsoft.com/en-us/library/86hw82a3(v=vs.110).aspx ]https://msdn.microsoft.com/en-us/library/86hw82a3(v=vs.110).aspx[/anchor]
 
 Strings and Objects
 -------------------
@@ -231,6 +235,7 @@ employee using appropriate primitive data types. Use descriptive names.
 ### Hints
 
 ![](/assets/programming-fundamentals-data-types-and-variables-exercises-02.png)
+[image src="https://github.com/InteractiveCourses/test2/tree/master/EN/assets/programming-fundamentals-data-types-and-variables-exercises-02.png"][/image]
 
 Reverse Characters
 ------------------
@@ -270,7 +275,7 @@ nanoseconds**.
     **overflows**!
 
 -   Assume that a year has **365.2422 days at average ([the Tropical
-    year](https://en.wikipedia.org/wiki/Tropical_year)).**
+    year][anchor href=https://en.wikipedia.org/wiki/Tropical_year ]https://en.wikipedia.org/wiki/Tropical_year[/anchor]).**
 
 Convert Speed Units
 -------------------
@@ -344,7 +349,8 @@ Create a program to calculate rectangle's **perimeter**, **area** and
 
 -   Use **Math.Sqrt()** to calculate square root for calculating the
     diagonal (c^2^ = a^2^ + b^2^). See
-    <http://www.mathopenref.com/rectanglediagonals.html>.
+    [anchor href=http://www.mathopenref.com/rectanglediagonals.html ]http://www.mathopenref.com/rectanglediagonals.html[/anchor]
+    
 
 Vowel or Digit
 --------------
@@ -377,9 +383,9 @@ Create a program to convert a **decimal number** to **hexadecimal** and
 ### Hints
 
 -   Use **[Convert.ToString(number,
-    base)](https://msdn.microsoft.com/en-us/library/14kwkz77(v=vs.110).aspx)**
+    base)][anchor href=https://msdn.microsoft.com/en-us/library/14kwkz77(v=vs.110).aspx ]https://msdn.microsoft.com/en-us/library/14kwkz77(v=vs.110).aspx[/anchor]**
     and
-    [**string.ToUpper()**](https://msdn.microsoft.com/en-us/library/ewdd6aed(v=vs.110).aspx).
+    [**string.ToUpper()**][anchor href=https://msdn.microsoft.com/en-us/library/ewdd6aed(v=vs.110).aspx ]https://msdn.microsoft.com/en-us/library/ewdd6aed(v=vs.110).aspx[/anchor].
 
 Fast Prime Checker - Refactor
 -----------------------------
@@ -464,7 +470,7 @@ some fixed constant **eps**. Examples:
 Print Part of the ASCII Table
 -----------------------------
 
-Find online more information about [ASCII](http://www.ascii-code.com/)
+Find online more information about [ASCII][anchor href=http://www.ascii-code.com/ ]http://www.ascii-code.com/[/anchor]
 (American Standard Code for Information Interchange) and write a program
 that **prints part of the ASCII table** of characters at the console. On
 the first line of input you will receive **the char index you should
