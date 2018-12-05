@@ -1,3 +1,4 @@
 [slide]
-Test 2
+# Slide title
+
 [/slide]
